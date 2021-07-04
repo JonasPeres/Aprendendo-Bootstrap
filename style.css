@@ -1,0 +1,31 @@
+
+body {
+    font: 17px Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+    background-color: grey;
+    color: black;
+}
+
+.quem-somos {
+    background-color: rgb(47, 255, 99);
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.parcerios {
+    background-color: cyan;
+}
+
+.servicos {
+    background-color: rgb(255, 255, 95);
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
